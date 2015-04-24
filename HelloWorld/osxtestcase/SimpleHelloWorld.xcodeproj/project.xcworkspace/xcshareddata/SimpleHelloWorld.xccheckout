@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50B1E4B5-68D9-495D-A134-CC0385E32C24</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleHelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BCD60131CDA50FD57D12877D8B5303EE0EE46EF0</key>
+		<string>github.com:ijansch/buildozer-testsuite-osx.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloWorld/osxtestcase/SimpleHelloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BCD60131CDA50FD57D12877D8B5303EE0EE46EF0</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ijansch/buildozer-testsuite-osx.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BCD60131CDA50FD57D12877D8B5303EE0EE46EF0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCD60131CDA50FD57D12877D8B5303EE0EE46EF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>buildozer-testsuite-osx</string>
+		</dict>
+	</array>
+</dict>
+</plist>
